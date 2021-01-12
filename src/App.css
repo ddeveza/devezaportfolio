@@ -2,6 +2,8 @@
 
 :root {
   --primary-white:#ffffff;
+  --primary-orange:#f9ab00;
+  --primary-dark: rgba(255,255,255,0);
 }
 
 body{
@@ -11,11 +13,13 @@ body{
 /************************NAVBAR*******************************/
 
 .logo{
-  width:16.25rem;
+  width:12.25rem;
+  height: 12.25rem;
+ 
 }
 
 nav a.nav-link {
-  font-weight: 500;
+  
   letter-spacing: 0.0375rem;
   cursor:pointer;
 }
@@ -25,5 +29,20 @@ nav ul li {
 }
 
 .navbar-nav > li > a {
+  margin-right: 0.75rem ;
+  margin-left: 0.75rem;
   color : var(--primary-white)!important;
+  border-top: 0.1875rem solid var(--primary-dark);
 }
+
+.navbar-brand {
+   max-width: 17.25rem;
+   padding: 0 !important;
+   height: 10rem !important;
+}
+
+.navbar-nav > li >a.active , .navbar-nav > li >a:focus {
+
+  border-top:0.1875rem solid var(--primary-orange);
+}
+
