@@ -1,8 +1,6 @@
 {
-  "homepage":"http://ddeveza.github.io/devezaportfolio",
-
-
-  "name": "myportfolio",
+  "homepage": "http://ddeveza.github.io/devezaportfolio",
+  "name": "devezaportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
