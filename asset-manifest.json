@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/devezaportfolio/static/css/main.4573d731.chunk.css",
+    "main.js": "/devezaportfolio/static/js/main.7072628f.chunk.js",
+    "main.js.map": "/devezaportfolio/static/js/main.7072628f.chunk.js.map",
+    "runtime-main.js": "/devezaportfolio/static/js/runtime-main.af3e7949.js",
+    "runtime-main.js.map": "/devezaportfolio/static/js/runtime-main.af3e7949.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/devezaportfolio/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.9bbb2c4b.chunk.js": "/devezaportfolio/static/js/2.9bbb2c4b.chunk.js",
+    "static/js/2.9bbb2c4b.chunk.js.map": "/devezaportfolio/static/js/2.9bbb2c4b.chunk.js.map",
+    "static/js/3.f9a2087c.chunk.js": "/devezaportfolio/static/js/3.f9a2087c.chunk.js",
+    "static/js/3.f9a2087c.chunk.js.map": "/devezaportfolio/static/js/3.f9a2087c.chunk.js.map",
+    "index.html": "/devezaportfolio/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/devezaportfolio/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.4573d731.chunk.css.map": "/devezaportfolio/static/css/main.4573d731.chunk.css.map",
+    "static/js/2.9bbb2c4b.chunk.js.LICENSE.txt": "/devezaportfolio/static/js/2.9bbb2c4b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/devezaportfolio/static/media/background.c71e0a70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af3e7949.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.9bbb2c4b.chunk.js",
+    "static/css/main.4573d731.chunk.css",
+    "static/js/main.7072628f.chunk.js"
+  ]
+}
