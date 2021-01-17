@@ -1,8 +1,9 @@
 {
-  "homepage": "http://ddeveza.github.io/devezaportfolio",
-  "name": "devezaportfolio",
+  
+  "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ddeveza.github.io/devezaportfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
